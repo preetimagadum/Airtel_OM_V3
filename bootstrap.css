@@ -4,6 +4,12 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+ .box{
+  border: solid var(--pink) 2px;
+}
+.red{
+  background-color: yellow;
+}
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
