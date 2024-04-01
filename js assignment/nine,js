@@ -1,0 +1,29 @@
+//30. Write a program to print the given 3 numbers in ascending orders?
+let a=2, b=4, c=5
+if(a<b && a<c){
+    if(b<c){
+        console.log("a,b,c")
+    }
+    else{
+        console.log("a,c,b")
+    }
+else if(b<c && b<a){
+        if (c<a) {
+            console.log("b,c,a")
+        }
+       else
+        {
+       console.log("b,a,c")
+        }
+    }
+     
+    else if (c<a && c<b){
+          if (b<a){
+            console.log("c,b,a")
+        }
+         else
+        {
+       console.log("c,a,b")
+        }
+   }
+}     

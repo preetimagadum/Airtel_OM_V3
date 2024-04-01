@@ -1,0 +1,3 @@
+var num=123
+var result= reversFunction(num);
+console.log(result)
