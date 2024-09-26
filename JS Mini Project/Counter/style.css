@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+button{
+    
+    background-color: aqua;
+    box-shadow: inset;
+}
+input{
+    width:100px;
+    height: 20px;
+    box-shadow: inset;
+}
